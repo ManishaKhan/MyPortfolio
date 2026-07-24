@@ -13,8 +13,8 @@ const projects = [
     title: 'Ecommerce Shopping Cart',
     image: Ecommerce,
     blurb:
-      'Developed a responsive e-commerce application using React.js, Redux, Custome CSS, and JSON Server with product listing, product details, and shopping cart functionality.',
-    tags: ['React', 'Custome CSS', 'Vite', 'JSON-Server Fake API', 'Redux', 'Axios', 'React Router'],
+      'Developed a responsive e-commerce application using React.js, Redux, CSS, and JSON Server with product listing, product details, and shopping cart functionality.',
+    tags: ['React', 'CSS', 'Vite', 'JSON-Server Fake API', 'Redux', 'Axios', 'React Router'],
     link: "https://ecommerce-app-wheat-three.vercel.app/",
     
   },
