@@ -138,7 +138,7 @@ export default function Hero() {
             <ArrowDownwardRoundedIcon fontSize="small" />
           </motion.div>
           <Typography variant="overline" sx={{ fontSize: '0.7rem' }}>
-            scroll to play
+            scroll
           </Typography>
         </Stack>
       </motion.div>
