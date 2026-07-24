@@ -202,7 +202,7 @@ export default function Contact() {
 
           <Button
             component="a"
-            href="/Manisha_Khan_Resume.pdf"
+            href="/Manisha_Khan_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             variant="outlined"
